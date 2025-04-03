@@ -4,6 +4,9 @@
 Workflow :
 
 [![My Skills](https://skillicons.dev/icons?i=ubuntu,bash,vim)](https://skillicons.dev)
+
+> [!NOTE]  
+> Currently looking for a research junior position.
 <!--
 **chataignault/chataignault** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
