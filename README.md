@@ -1,23 +1,55 @@
+**About me**
 
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,rust)](https://skillicons.dev)
-
-Workflow :
-
-[![My Skills](https://skillicons.dev/icons?i=ubuntu,bash,vim)](https://skillicons.dev)
+I am a MEng and MSc Applied Mathematics graduate.
 
 > [!NOTE]  
 > Currently looking for a research junior position.
-<!--
-**chataignault/chataignault** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack**
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=50 align="center" src="https://go-skill-icons.vercel.app/api/icons?i=python" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=30 align="center" src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,jax,lightning,polars,pandas,pytest,mlflow" />
+</a>
+<br/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=50 align="center" src="https://go-skill-icons.vercel.app/api/icons?i=ubuntu" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=30 align="center" src="https://go-skill-icons.vercel.app/api/icons?i=wsl,podman" />
+</a>
+<br/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=50 align="center" src="https://go-skill-icons.vercel.app/api/icons?i=bash" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=30 align="center" src="https://go-skill-icons.vercel.app/api/icons?i=vim,vscode,git" />
+</a>
+<br/>
+
+**Interests**
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=50 align="center" src="https://go-skill-icons.vercel.app/api/icons?i=rust" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=30 align="center" src="https://go-skill-icons.vercel.app/api/icons?i=polars,arrow,deltars" />
+</a>
+<br/>
+
+Other :
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=30 align="center" src="https://go-skill-icons.vercel.app/api/icons?i=react,ocaml" />
+</a>
+
+***
+
+**Code frequency**
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chataignault&langs_count=10&theme=tokyonight&hide=jupyter%20notebook&layout=compact
+)]()
