@@ -3,7 +3,7 @@
 I am a MEng and MSc Applied Mathematics graduate.
 
 > [!NOTE]  
-> Currently looking for a research junior position.
+> Currently looking for a junior research position.
 
 ***
 
