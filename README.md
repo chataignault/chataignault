@@ -44,7 +44,7 @@ I am a MEng and MSc Applied Mathematics graduate.
 Other :
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=30 align="center" src="https://go-skill-icons.vercel.app/api/icons?i=react,ocaml" />
+  <img height=30 align="center" src="https://go-skill-icons.vercel.app/api/icons?i=react,ocaml,haskell" />
 </a>
 
 ***
