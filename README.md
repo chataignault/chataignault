@@ -11,7 +11,7 @@
   <img height=50 align="center" src="https://go-skill-icons.vercel.app/api/icons?i=python" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=30 align="center" src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pytorch,jax,lightning,polars,pandas,pytest,mlflow,ray,opencv,langchain,fastapi,duckdb,airflow" />
+  <img height=30 align="center" src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,polars,pytest,fastapi,duckdb,pytorch,jax,lightning,opencv,langchain,airflow,mlflow,ray" />
 </a>
 <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -25,12 +25,12 @@
   <img height=50 align="center" src="https://go-skill-icons.vercel.app/api/icons?i=bash" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=30 align="center" src="https://go-skill-icons.vercel.app/api/icons?i=neovim,vim,vscode,catppuccin,tmux,git" />
+  <img height=30 align="center" src="https://go-skill-icons.vercel.app/api/icons?i=neovim,vim,vscode,catppuccin,tmux,latex,git" />
 </a>
 <br/>
 <br/>
 
-**Programming Languages of interest :**
+**Programming languages of interest :**
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=50 align="center" src="https://go-skill-icons.vercel.app/api/icons?i=rust" />
@@ -39,12 +39,10 @@
   <img height=30 align="center" src="https://go-skill-icons.vercel.app/api/icons?i=polars,arrow,deltars,ratatui,burn" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=50 align="center" src="https://go-skill-icons.vercel.app/api/icons?i=haskell,ocaml,golang,latex" />
+  <img height=50 align="center" src="https://go-skill-icons.vercel.app/api/icons?i=haskell,ocaml,golang" />
 </a>
 
-***
-
-**Code frequency**
+**Code frequency :**
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chataignault&langs_count=12&theme=tokyonight&hide=jupyter%20notebook,html,css&layout=compact
 )]()
