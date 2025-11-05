@@ -5,20 +5,20 @@
 
 ***
 
-**Stack**
+**Stack :**
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=50 align="center" src="https://go-skill-icons.vercel.app/api/icons?i=python" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=30 align="center" src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pytorch,jax,lightning,polars,pandas,pytest,mlflow,ray,opencv,langchain,fastapi,duckdb" />
+  <img height=30 align="center" src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pytorch,jax,lightning,polars,pandas,pytest,mlflow,ray,opencv,langchain,fastapi,duckdb,airflow" />
 </a>
 <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=50 align="center" src="https://go-skill-icons.vercel.app/api/icons?i=ubuntu" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=30 align="center" src="https://go-skill-icons.vercel.app/api/icons?i=wsl,podman,systemd,claude,firefox" />
+  <img height=30 align="center" src="https://go-skill-icons.vercel.app/api/icons?i=wsl,podman,systemd,claude,firefox,github" />
 </a>
 <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -30,7 +30,7 @@
 <br/>
 <br/>
 
-**Interests**
+**Programming Languages of interest :**
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=50 align="center" src="https://go-skill-icons.vercel.app/api/icons?i=rust" />
@@ -38,12 +38,8 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=30 align="center" src="https://go-skill-icons.vercel.app/api/icons?i=polars,arrow,deltars,ratatui,burn" />
 </a>
-<br/>
-
-Other :
-
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=30 align="center" src="https://go-skill-icons.vercel.app/api/icons?i=haskell,ocaml,golang" />
+  <img height=50 align="center" src="https://go-skill-icons.vercel.app/api/icons?i=haskell,ocaml,golang,latex" />
 </a>
 
 ***
