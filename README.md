@@ -25,7 +25,7 @@
   <img height=50 align="center" src="https://go-skill-icons.vercel.app/api/icons?i=bash" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=30 align="center" src="https://go-skill-icons.vercel.app/api/icons?i=neovim,vim,vscode,catppuccin,tmux,latex,git" />
+  <img height=30 align="center" src="https://go-skill-icons.vercel.app/api/icons?i=neovim,vim,vscode,catppuccin,tmux,zellij,latex,git" />
 </a>
 <br/>
 <br/>
