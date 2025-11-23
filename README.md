@@ -1,7 +1,6 @@
 # MEng and MSc Applied Mathematics graduate.
-
 > [!TIP]  
-> Currently looking for a junior research position.
+> Currently looking for a junior applied research position.
 
 ***
 
@@ -18,7 +17,7 @@
   <img height=50 align="center" src="https://go-skill-icons.vercel.app/api/icons?i=ubuntu" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=30 align="center" src="https://go-skill-icons.vercel.app/api/icons?i=wsl,podman,systemd,claude,firefox,github" />
+  <img height=30 align="center" src="https://go-skill-icons.vercel.app/api/icons?i=wsl,podman,systemd,claude,firefox,github,gcp" />
 </a>
 <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
